@@ -1,0 +1,51 @@
+
+
+article
+{
+
+border: 2px solid #060bfa;
+
+border-radius: 6px;
+
+
+
+
+}
+.article1
+{
+	background: pink;
+	margin: 6px;
+	border: 2px solid green;
+
+border-radius: 6px;
+margin: 1em 5px;
+
+}
+.article2
+{
+	margin: 6px;
+	border: 2px solid #060bfa;
+
+border-radius: 6px;
+margin: 1em;
+
+
+}
+.d1{
+	margin: 6px;
+
+	border: 2px solid red;
+
+border-radius: 6px;
+}
+
+.espace
+{
+margin:  20px ;
+
+}
+.espace1
+{
+margin:  20px ;
+
+}
